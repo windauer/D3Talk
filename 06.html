@@ -1,8 +1,8 @@
-<!DOCTYPE html>
-<html>
-<head lang='en'>
-  <meta charset='UTF-8'>
-  <title>Selections with Data & SVG & Scales & GOOD Path Interpolations</title>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head lang="en">
+  <meta charset="UTF-8"> </meta>
+
+  <title>Selections with Data &amp; SVG &amp; Scales &amp; GOOD Path Interpolations</title>
 </head>
 <style>
   svg {
@@ -24,8 +24,8 @@
 </style>
 <body>
 
-<script src='vendor/d3.js'></script>
-<script src='scripts/randomStream.js'></script>
+<script src="vendor/d3.js"/>
+<script src="scripts/randomStream.js"/>
 <script>
 
   var n = 110;
@@ -36,7 +36,7 @@
   var height = 500 - margin.top - margin.bottom;
 
   var x = d3.scale.linear()
-    .domain([1, n - 2])// 1. Clip the x so that the first and last elements aren't visible! E.g. x(0) will now be < 0
+    .domain([1, n - 2])
     .range([0, width]);
 
   var y = d3.scale.linear()

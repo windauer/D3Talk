@@ -2,28 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0cab2693-8ddc-478a-830a-fb64bebef006" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/02.html" afterPath="$PROJECT_DIR$/02.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/05.html" afterPath="$PROJECT_DIR$/05.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/02.html" afterPath="$PROJECT_DIR$/02.html"/>
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/05.html" afterPath="$PROJECT_DIR$/05.html"/>
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml"/>
     </list>
-    <ignored path="D3Talk.iws" />
-    <ignored path=".idea/workspace.xml" />
-    <option name="TRACKING_ENABLED" value="true" />
-    <option name="SHOW_DIALOG" value="false" />
-    <option name="HIGHLIGHT_CONFLICTS" value="true" />
-    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
-    <option name="LAST_RESOLUTION" value="IGNORE" />
+    <ignored path="D3Talk.iws"/>
+    <ignored path=".idea/workspace.xml"/>
+    <option name="TRACKING_ENABLED" value="true"/>
+    <option name="SHOW_DIALOG" value="false"/>
+    <option name="HIGHLIGHT_CONFLICTS" value="true"/>
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false"/>
+    <option name="LAST_RESOLUTION" value="IGNORE"/>
   </component>
-  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false"/>
   <component name="CreatePatchCommitExecutor">
-    <option name="PATCH_PATH" value="" />
+    <option name="PATCH_PATH" value=""/>
   </component>
   <component name="DaemonCodeAnalyzer">
-    <disable_hints />
+    <disable_hints/>
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target"/>
   <component name="FavoritesManager">
-    <favorites_list name="D3Talk" />
+    <favorites_list name="D3Talk"/>
   </component>
   <component name="FileEditorManager">
     <leaf>
@@ -31,9 +31,9 @@
         <entry file="file://$PROJECT_DIR$/07.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.7744361" vertical-offset="1253" max-vertical-offset="3026">
-              <caret line="208" column="0" selection-start-line="208" selection-start-column="0" selection-end-line="209" selection-end-column="35" />
+              <caret line="208" column="0" selection-start-line="208" selection-start-column="0" selection-end-line="209" selection-end-column="35"/>
               <folding>
-                <element signature="e#397#5802#0" expanded="false" />
+                <element signature="e#397#5802#0" expanded="false"/>
               </folding>
             </state>
           </provider>
@@ -43,83 +43,83 @@
   </component>
   <component name="FindManager">
     <FindUsagesManager>
-      <setting name="OPEN_NEW_TAB" value="true" />
+      <setting name="OPEN_NEW_TAB" value="true"/>
     </FindUsagesManager>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$"/>
   </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/2_selectionsWithSVG.html" />
-        <option value="$PROJECT_DIR$/2_selectionsWithData.html" />
-        <option value="$PROJECT_DIR$/1_selections.html" />
-        <option value="$PROJECT_DIR$/2_selections.html" />
-        <option value="$PROJECT_DIR$/3_selections.html" />
-        <option value="$PROJECT_DIR$/4_selections.html" />
-        <option value="$PROJECT_DIR$/5_selections.html" />
-        <option value="$PROJECT_DIR$/data/flare.json" />
-        <option value="$PROJECT_DIR$/scripts/randomStream.js" />
-        <option value="$PROJECT_DIR$/scripts/simpleStream.js" />
-        <option value="$PROJECT_DIR$/07.html" />
-        <option value="$PROJECT_DIR$/01.html" />
-        <option value="$PROJECT_DIR$/03.html" />
-        <option value="$PROJECT_DIR$/04.html" />
-        <option value="$PROJECT_DIR$/06.html" />
-        <option value="$PROJECT_DIR$/02.html" />
-        <option value="$PROJECT_DIR$/05.html" />
+        <option value="$PROJECT_DIR$/2_selectionsWithSVG.html"/>
+        <option value="$PROJECT_DIR$/2_selectionsWithData.html"/>
+        <option value="$PROJECT_DIR$/1_selections.html"/>
+        <option value="$PROJECT_DIR$/2_selections.html"/>
+        <option value="$PROJECT_DIR$/3_selections.html"/>
+        <option value="$PROJECT_DIR$/4_selections.html"/>
+        <option value="$PROJECT_DIR$/5_selections.html"/>
+        <option value="$PROJECT_DIR$/data/flare.json"/>
+        <option value="$PROJECT_DIR$/scripts/randomStream.js"/>
+        <option value="$PROJECT_DIR$/scripts/simpleStream.js"/>
+        <option value="$PROJECT_DIR$/07.html"/>
+        <option value="$PROJECT_DIR$/01.html"/>
+        <option value="$PROJECT_DIR$/03.html"/>
+        <option value="$PROJECT_DIR$/04.html"/>
+        <option value="$PROJECT_DIR$/06.html"/>
+        <option value="$PROJECT_DIR$/02.html"/>
+        <option value="$PROJECT_DIR$/05.html"/>
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="22" />
-    <option name="width" value="1462" />
-    <option name="height" value="778" />
+    <option name="y" value="22"/>
+    <option name="width" value="1462"/>
+    <option name="height" value="778"/>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
-    <OptionsSetting value="true" id="Add" />
-    <OptionsSetting value="true" id="Remove" />
-    <OptionsSetting value="true" id="Checkout" />
-    <OptionsSetting value="true" id="Update" />
-    <OptionsSetting value="true" id="Status" />
-    <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
-    <ConfirmationsSetting value="0" id="Remove" />
+    <OptionsSetting value="true" id="Add"/>
+    <OptionsSetting value="true" id="Remove"/>
+    <OptionsSetting value="true" id="Checkout"/>
+    <OptionsSetting value="true" id="Update"/>
+    <OptionsSetting value="true" id="Status"/>
+    <OptionsSetting value="true" id="Edit"/>
+    <ConfirmationsSetting value="0" id="Add"/>
+    <ConfirmationsSetting value="0" id="Remove"/>
   </component>
   <component name="ProjectReloadState">
-    <option name="STATE" value="0" />
+    <option name="STATE" value="0"/>
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
+      <flattenPackages/>
+      <showMembers/>
+      <showModules/>
+      <showLibraryContents/>
+      <hideEmptyPackages/>
+      <abbreviatePackageNames/>
+      <autoscrollToSource/>
+      <autoscrollFromSource/>
+      <sortByType/>
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scope"/>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="D3Talk" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+              <option name="myItemId" value="D3Talk"/>
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode"/>
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="D3Talk" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+              <option name="myItemId" value="D3Talk"/>
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode"/>
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="D3Talk" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+              <option name="myItemId" value="D3Talk"/>
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode"/>
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -127,277 +127,276 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.lastSelected" value="editor" />
-    <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="options.searchVisible" value="true" />
-    <property name="FullScreen" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$"/>
+    <property name="WebServerToolWindowFactoryState" value="false"/>
+    <property name="DefaultHtmlFileTemplate" value="Html5"/>
+    <property name="options.lastSelected" value="editor"/>
+    <property name="options.splitter.main.proportions" value="0.3"/>
+    <property name="options.splitter.details.proportions" value="0.2"/>
+    <property name="options.searchVisible" value="true"/>
+    <property name="FullScreen" value="false"/>
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/scripts" />
-      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/scripts"/>
+      <recent name="$PROJECT_DIR$"/>
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$/images"/>
     </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="CucumberJavaScriptRunConfigurationType" factoryName="Cucumber.js">
-      <option name="cucumberJsArguments" />
-      <option name="executablePath" />
-      <option name="filePath" />
-      <method />
+      <option name="cucumberJsArguments"/>
+      <option name="executablePath"/>
+      <option name="filePath"/>
+      <method/>
     </configuration>
     <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
-      <envs />
-      <method />
+      <envs/>
+      <method/>
     </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
-      <setting name="configLocationType" value="CONFIG_FILE" />
-      <setting name="settingsFile" value="" />
-      <setting name="serverType" value="INTERNAL" />
-      <setting name="preferredDebugBrowser" value="Chrome" />
-      <method />
+      <setting name="configLocationType" value="CONFIG_FILE"/>
+      <setting name="settingsFile" value=""/>
+      <setting name="serverType" value="INTERNAL"/>
+      <setting name="preferredDebugBrowser" value="Chrome"/>
+      <method/>
     </configuration>
     <configuration default="true" type="BashConfigurationType" factoryName="Bash">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="INTERPRETER_PATH" value="/bin/bash" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <module name="" />
-      <envs />
-      <method />
+      <option name="INTERPRETER_OPTIONS" value=""/>
+      <option name="INTERPRETER_PATH" value="/bin/bash"/>
+      <option name="WORKING_DIRECTORY" value=""/>
+      <option name="PARENT_ENVS" value="true"/>
+      <option name="SCRIPT_NAME" value=""/>
+      <option name="PARAMETERS" value=""/>
+      <module name=""/>
+      <envs/>
+      <method/>
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
-      <method />
+      <method/>
     </configuration>
     <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
-      <method />
+      <method/>
     </configuration>
-    <list size="0" />
+    <list size="0"/>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="ShelveChangesManager" show_recycled="false"/>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0cab2693-8ddc-478a-830a-fb64bebef006" name="Default" comment="" />
+      <changelist id="0cab2693-8ddc-478a-830a-fb64bebef006" name="Default" comment=""/>
       <created>1427854165595</created>
       <updated>1427854165595</updated>
     </task>
-    <servers />
+    <servers/>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1462" height="778" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="22" width="1462" height="778" extended-state="6"/>
+    <editor active="true"/>
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19357045" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs"/>
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs"/>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs"/>
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs"/>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19357045" sideWeight="0.5" order="0" side_tool="false" content_ui="combo"/>
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs"/>
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs"/>
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs"/>
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs"/>
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs"/>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs"/>
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs"/>
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs"/>
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs"/>
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs"/>
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo"/>
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs"/>
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
-      <collection />
+      <collection/>
     </option>
     <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-      <collection />
+      <collection/>
     </option>
   </component>
   <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+    <option name="myLimit" value="2678400000"/>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="myTodoPanelSettings">
-      <TodoPanelSettings />
+      <TodoPanelSettings/>
     </option>
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager/>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/06.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1440" max-vertical-offset="1650">
-          <caret line="96" column="45" selection-start-line="96" selection-start-column="40" selection-end-line="96" selection-end-column="45" />
+          <caret line="96" column="45" selection-start-line="96" selection-start-column="40" selection-end-line="96" selection-end-column="45"/>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/07.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="3075" max-vertical-offset="3675">
-          <caret line="205" column="45" selection-start-line="205" selection-start-column="45" selection-end-line="205" selection-end-column="45" />
+          <caret line="205" column="45" selection-start-line="205" selection-start-column="45" selection-end-line="205" selection-end-column="45"/>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/01.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="390">
-          <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+          <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7"/>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/02.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="390" max-vertical-offset="735">
-          <caret line="26" column="22" selection-start-line="25" selection-start-column="16" selection-end-line="26" selection-end-column="22" />
+          <caret line="26" column="22" selection-start-line="25" selection-start-column="16" selection-end-line="26" selection-end-column="22"/>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/03.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="375" max-vertical-offset="930">
-          <caret line="25" column="9" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="9" />
+          <caret line="25" column="9" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="9"/>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/04.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="990" max-vertical-offset="1500">
-          <caret line="66" column="19" selection-start-line="66" selection-start-column="19" selection-end-line="66" selection-end-column="19" />
+          <caret line="66" column="19" selection-start-line="66" selection-start-column="19" selection-end-line="66" selection-end-column="19"/>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/05.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1155" max-vertical-offset="1470">
-          <caret line="77" column="25" selection-start-line="77" selection-start-column="25" selection-end-line="77" selection-end-column="25" />
+          <caret line="77" column="25" selection-start-line="77" selection-start-column="25" selection-end-line="77" selection-end-column="25"/>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts/simpleStream.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="360">
-          <caret line="1" column="32" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
+          <caret line="1" column="32" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32"/>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/06.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="692" max-vertical-offset="1650">
-          <caret line="70" column="17" selection-start-line="70" selection-start-column="17" selection-end-line="70" selection-end-column="17" />
+          <caret line="70" column="17" selection-start-line="70" selection-start-column="17" selection-end-line="70" selection-end-column="17"/>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vendor/d3.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="969">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0"/>
         </state>
       </provider>
     </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/DHTML.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3329939" vertical-offset="14958" max-vertical-offset="57240">
-          <caret line="1019" column="0" selection-start-line="1019" selection-start-column="0" selection-end-line="1019" selection-end-column="0" />
+          <caret line="1019" column="0" selection-start-line="1019" selection-start-column="0" selection-end-line="1019" selection-end-column="0"/>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts/randomStream.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.21384929" vertical-offset="0" max-vertical-offset="982">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0"/>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts/simpleStream.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.015274949" vertical-offset="0" max-vertical-offset="982">
-          <caret line="1" column="32" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
+          <caret line="1" column="32" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32"/>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vendor/d3.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33333334" vertical-offset="88627" max-vertical-offset="142635">
-          <caret line="5930" column="2" selection-start-line="5930" selection-start-column="2" selection-end-line="5930" selection-end-column="2" />
+          <caret line="5930" column="2" selection-start-line="5930" selection-start-column="2" selection-end-line="5930" selection-end-column="2"/>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/data/flare.json">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.8768267" vertical-offset="0" max-vertical-offset="2430">
-          <caret line="56" column="34" selection-start-line="56" selection-start-column="34" selection-end-line="56" selection-end-column="34" />
-          <folding />
+          <caret line="56" column="34" selection-start-line="56" selection-start-column="34" selection-end-line="56" selection-end-column="34"/>
+          <folding/>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/01.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.34862384" vertical-offset="4" max-vertical-offset="780">
-          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
-          <folding />
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8"/>
+          <folding/>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/02.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.22598106" vertical-offset="847" max-vertical-offset="1911">
-          <caret line="26" column="22" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
-          <folding />
+          <caret line="26" column="22" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22"/>
+          <folding/>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/03.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6159895" vertical-offset="1010" max-vertical-offset="2294">
-          <caret line="40" column="26" selection-start-line="40" selection-start-column="26" selection-end-line="40" selection-end-column="26" />
-          <folding />
+          <caret line="40" column="26" selection-start-line="40" selection-start-column="26" selection-end-line="40" selection-end-column="26"/>
+          <folding/>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/04.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-10.375" vertical-offset="1962" max-vertical-offset="3300">
-          <caret line="67" column="32" selection-start-line="67" selection-start-column="32" selection-end-line="67" selection-end-column="32" />
-          <folding />
+          <caret line="67" column="32" selection-start-line="67" selection-start-column="32" selection-end-line="67" selection-end-column="32"/>
+          <folding/>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/06.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7155963" vertical-offset="2296" max-vertical-offset="3190">
-          <caret line="98" column="0" selection-start-line="90" selection-start-column="0" selection-end-line="98" selection-end-column="0" />
-          <folding />
+          <caret line="98" column="0" selection-start-line="90" selection-start-column="0" selection-end-line="98" selection-end-column="0"/>
+          <folding/>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/05.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.31367293" vertical-offset="2326" max-vertical-offset="3136">
-          <caret line="80" column="0" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
-          <folding />
+          <caret line="80" column="0" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0"/>
+          <folding/>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/07.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7744361" vertical-offset="1253" max-vertical-offset="3026">
-          <caret line="208" column="0" selection-start-line="208" selection-start-column="0" selection-end-line="209" selection-end-column="35" />
+          <caret line="208" column="0" selection-start-line="208" selection-start-column="0" selection-end-line="209" selection-end-column="35"/>
           <folding>
-            <element signature="e#397#5802#0" expanded="false" />
+            <element signature="e#397#5802#0" expanded="false"/>
           </folding>
         </state>
       </provider>
     </entry>
   </component>
 </project>
-
